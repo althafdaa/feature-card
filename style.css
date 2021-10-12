@@ -103,6 +103,6 @@ img {
   .builder,
   .karma,
   .calculator {
-    margin: 20px auto;
+    margin: 20px 0px;
   }
 }
